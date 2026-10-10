@@ -1,0 +1,8 @@
+# Raw samples never go into git (malicious PDFs especially).
+data/raw/
+*.pdf
+*.zip
+*.7z
+
+__pycache__/
+.venv/
